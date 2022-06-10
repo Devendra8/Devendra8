@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Devendra's github stats](https://github-readme-stats.vercel.app/api?username=Devendra8)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devendra8)](https://github.com/Devendra8/github-readme-stats)
+
